@@ -1,7 +1,7 @@
 {
   "name": "armvmgrgaav.angular",
   "version": "0.0.0",
-  "private": true,
+  "private": false,
   "dependencies": {
     "@angular/animations": "11.0.0",
     "@angular/common": "11.0.0",
